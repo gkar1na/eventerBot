@@ -1,0 +1,7 @@
+# secret files
+*config*
+*token*
+*credential*
+
+# useless files
+.idea/*
